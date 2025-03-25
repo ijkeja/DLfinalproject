@@ -1,3 +1,13 @@
+import numpy as np
+import awkward as ak
+import vector
+import torch
+import torch.nn as nn
+from sklearn.metrics import roc_curve, roc_auc_score
+import matplotlib.pyplot as plt
+from matplotlib.ticker import MultipleLocator
+from tqdm import tqdm
+
 # Define functions needed to transform the input variables
 def _p4_from_pxpypze(px, py, pz, energy):
     import vector
