@@ -1,6 +1,6 @@
 # DLfinalproject
 
-This repository is used for our final project for the Deep Learning in Physics course (2025).
+This repository is used for the final project for the Deep Learning in Physics course (2025) by Elias Münch, Franca Maat and Ivan Keja. We implement code from particle_transformer (https://github.com/jet-universe/particle_transformer) to try and reproduce some of the results from: Qu, Huilin, Congqiao Li, and Sitian Qian. "Particle transformer for jet tagging." International Conference on Machine Learning. PMLR, 2022.
 
 It consists of three parts.
 
