@@ -9,4 +9,4 @@ It consists of three parts.
    - The file CreateDatasets_TopLandscape.ipynb creates the smaller Top datasets that we use for training of the models. The original dataset is the Top Quark Tagging Reference Dataset (https://zenodo.org/records/2603256).
    - The file TopLandscape_ParticleTransformer.ipynb contains everything needed to train the models ParT and ParT-f.t. on the smaller Top dataset as well as evaluating their performance.
    - The file TopLandscape_ParticleNet.ipynb contains everything needed to train the models ParticleNet and ParticleNet-f.t. on the smaller Top dataset as well as evaluating their performance.
-3. The file Visualization_Datasets.ipynb contains the code used to obtain the particle-cloud representation plots of the jets in the Top and JetClass datasets.
+3. The file Visualization_Datasets.ipynb contains the code used to obtain the particle cloud representation plots of the jets in the Top and JetClass datasets.
